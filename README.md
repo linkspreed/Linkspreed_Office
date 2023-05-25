@@ -1,4 +1,4 @@
-# <img align="left" alt="Linkspreed Office" width="100px" src="https://github.com/linkspreed/Linkspreed_Office/assets/102324985/f1400752-31ce-432f-8abf-d623c0a54903" draggable="false" /> ([Click to try 🚀](https://office.linkspreed.com/)) (v5.5)
+# <img align="left" alt="Linkspreed Office" width="160px" src="https://github.com/linkspreed/Linkspreed_Office/assets/102324985/f1400752-31ce-432f-8abf-d623c0a54903" draggable="false" /> ([Click to try 🚀](https://office.linkspreed.com/)) (v5.5)
 
 🔗✨ A centralized hub for all the code and resources powering the Linkspreed Office, keeping your workspaces connected and productivity soaring! 🏢💻🚀
 	
@@ -13,50 +13,39 @@
 
 ## Features
 
-- **Biolinks** – Create link in bio pages in seconds. Manage content effortlessly using simple drag-and-drop editor. Customize backgrounds, colors, fonts, button styles and other appearance settings using visual editor.
-- **Biolink Widgets** – Add links, images, text, youtube, soundcloud, spotify, tiktok, twitch embeds and more.
-- **Workspaces / Teams** – Create multiple workspaces and invite team members to collaborate on campaigns, links, custom domains and more.
-- **Link Rotators** – Put multiple links into a group and use the short link for the group to redirect user to a random link from that group.
-- **Editable Homepage** – Default landing page can be easily edited via built-in appearance editor with live preview and no coding knowledge.
-- **(Optional) SaaS mode** – Earn money with built in premium subscription system. Create different plans for users to subscribe to and control what functionality and limitations each plan has. Paypal and Stripe integration is fully built-in.
-- **High Performance** – BeLink is lightweight and has lighting fast performance and page load time out of the box.
-- **API** – Fully featured rest API allows performing any action that is possible on the website via REST api. Interactive API documentation is also included.
-- **Link Statistics** – Link reports allow users to see many statistics about their links including date and count of clicks, countries, referrers, devices, browsers and more.
-- **Link Groups** – Group multiple links together to allow viewing statistics for all links in that group and see how different groups perform when compared to each other.
-- **Link Sharing** – Share shortened urls on facebook or twitter with a single click from user dashboard or link frame/splash pages.
-QR Code – Generate and copy a fully functional shortened url QR code with a single click. Scanning QR code will redirect to long url.
-- **Custom Domains** – Users can attach custom domains and sub-domains so their short links will use their own site url. Domain different then main site url can also be set as default by admin.
-- **Link Overlays** – Link overlay redirect type will show a fully customizable overlay over destination website .
-- **Link Custom Pages** – Create fully custom html pages with built-in WYSIWYG editor that can be shown to user before redirecting them to destination url.
-- **Link Splash Pages** – Splash pages with information about destination url and optional ads can be shown to user before redirecting them to destination url.
-- **Schedules** – Links can be schedules to automatically become available and/or expire at specific date and time. Links can also be set to expire after specific amount of clicks/visits.
-- **Custom Link ID** – Links can have custom human-readable short IDs, instead of random generated strings.
-- **Link Metadata** – Each link can have metadata, including tags, title and description. This allows easier management of links as well as customization for link page SEO tags.
-- **Password Protection** – Links can be protected so only users with password will be redirect to destination url.
-- **URL Validation** – URLs can be automatically validated against custom blacklist of domains and keywords or using Google safe browsing API and Phishtank API.
-- **Tracking Pixels** – Tracking pixels from various services can be attached to links to measure their performance.
-Location and Device Targeting- Links can be redirecting to different destination url based on user device (mobile, desktop etc) or their location.
-- **Multiple URL Shortening** – Easily shorten multiple urls with one click.
-- **Permissions and Roles** – Use fully featured permission and role system to allow (or disallow) users, subscription plans or guests to peform specific action accross the site.
-- **Appearance Editor** – Site appearance can be easily changed without any coding knowledge via built-in editor with live preview.
-- **Dark Mode** – BeLink comes with pre-built light and dark themes. You can fully customize them or add new themes via appearance editor.
-- **Custom Pages** – Custom pages (for example terms of service, about us etc) can be created using built-in WISIWYG editor.
-- **Menu Editor** – All the menus accross the site can be easily edited via drag and drop without any coding knowledge.
-- **Translations** – BeLink is fully translation ready and can be easily translated to any language from admin area.
-- **Custom Code** – Custom code can be added directly from appearance editor without the need to modify any files.
-- **In-Depth Documentation** – BeLink comes with in depth documentation that explains everything from installation to usage of all the features.
-- **SEO Editor** – SEO tags for all pages can be modified directly from appearance editor in admin area.
-- **Authentication** – Fully featured authentication system including social login, recaptcha protection, option to completely disable registration and more.
-- **Contact Page** – Allow users to contact you easily with questions via built in contact us page.
-- **Integrated Ads** – 6 integrated ad slots. All you need to do is paste your ad codes in admin area and BeLink will display your ads in the corresponding slot on the site.
-- **Modern Design** – BeLink features a clean, modern, professional design based on google material design specification.
-- **Settings** – There are many settings that allow you to enable or disable functionality across the site, fine tune how links work, configure various date and time formats and much more.
-- **Google Analytics** – Google analytics are fully integrated, all you need to do is enter your tracking code.
-- **Multiple Homepages** – Choose between multiple homepages including default landing page, login page or your own custom html page.
-
+- **Project Management**
+  - Create unlimited amounts of Projects with start and end date of project, each with their own unique teams. You can easily assign teams and client to each project. After the creation of a project, you can create tasks of that project and assign those tasks to the project team members in order to get tasks done. You can see all the details about projects like graphical overview, project tasks, project statistics, project files, project users, and many more.
+- **Tasks Management**
+  - Add a new task and prioritize them according to the need of urgency. Assign the task to one or multiple team members and set a due date for task completion. You can add comments and attach necessary files in a required task. Using a Kanban board and clear statistics helps you understand the status of tasks and you can drag and drop the task to change the status of tasks. Detail model of the task will show you all the necessary details of those tasks.
+- **Client and Team Management**
+  - You can add a new user and remove an unnecessary user when required. Also, admin can make any team member as admin and also from admin to a team member. You can easily add this member to any project and assign tasks to those members. You can easily collaborate with your team and work together on any project or task.
+- **Leads**
+  - Keep track of your opportunities. Manage potential customers and follow-up their status and convert your leads into paying customers.
+- **Video Meetings**
+  - Unlimited free video conference. Do video meetings/conference with your clients and team members for unlimited time.
+- **Time Tracking**
+  - Keep track of the amount of time that you spend on your project tasks which can be billed to your client.
+- **Invoices and Payments**
+  - You don’t need to send an invoice to your client separately. Easily send an invoice to your client and get paid from PayPal, Stripe, Razorpay, and Bank Transfer in the application.
+- **Custom Currency and Taxes**
+  - You can set your custom currency according to your need. This feature will allow you to set Project Budget and send an invoice in your native currency. Also, you can create unlimited taxes and apply them to your work through invoice.
+- **Gantt Chart / Calendar**
+  - The due dates of the projects and tasks will appear in the Gantt Chart and Calendar.
+- **Estimates**
+  - Estimates help you to convert your leads into orders. Clients are more willing to commit to a project when they have an idea of the total cost.
+- **User Permissions**
+  - Admin always has all the permission, and no one can change that. Admin has the power to give any permission to the user. Permissions like view projects and tasks, update, delete, and many more.
+- **Leaves**
+  - Manage your team members leave requests. Approve or reject leave applications
+- **Chat**
+  - Chat allows you to communicate with all team members. You don’t have to leave the application for any discussion.
+- **ToDo**
+  - You can create your own daily ToDo list. That will help you to complete your tasks on time.
+- **Notes**
+  - Make personalized notes for your self because of these busy days. We can not remember all the things. Just add those things here as a reminder.
 ## More
  
-BioX is **free**, **real-time** and with **unlimited** resources 
+Linkspreed Office is **free**, **real-time** and with **unlimited** resources 
 for developers around the world.
 
 Our focus is on **usability** and **security** 
@@ -67,7 +56,7 @@ for our developers, users and anyone who comes into contact with ([Linkspreed �
     is developed properly so that 
     the platform works as well as possible.
 ```
- You can enjoy BioX freely and use all features to an unlimited extent.
+ You can enjoy Linkspreed Office freely and use all features to an unlimited extent.
 
 ## 📷 UI
 
