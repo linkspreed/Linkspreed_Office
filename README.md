@@ -1,9 +1,9 @@
-# <img align="left" alt="Analytix" width="160px" src="https://github.com/linkspreed/BioX/assets/102324985/912f1990-fbed-41b0-aaed-9ea7075f4d49" draggable="false" /> ([Click to try 🚀](https://biox.ga/)) (v3.0.3)
+# <img align="left" alt="Linkspreed Office" width="160px" src="<img src="https://github.com/linkspreed/Linkspreed_Office/assets/102324985/f1400752-31ce-432f-8abf-d623c0a54903" draggable="false" /> ([Click to try 🚀](https://office.linkspreed.com/)) (v5.5)
 
 🔗 BioX is a powerful biolink generator and URL shortener, perfect for creating concise and impactful bio descriptions across various platforms. 📝🔗✂️
 
-## **[Changelog 📝](https://github.com/linkspreed/BioX/blob/main/changelog.md)** **Check out the full BioX changelog**
-## **[Special Works 👨‍💻](https://github.com/linkspreed/BioX/blob/main/Special_Works.md)** **Take a look at what changes we are doing to BioX besides development**
+## **[Changelog 📝](https://github.com/linkspreed/Linkspreed_Office/blob/main/changelog.md)** **Check out the full Linkspreed Office changelog**
+## **[Special Works 👨‍💻](https://github.com/linkspreed/Linkspreed_Office/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Linkspreed Office besides development**
 
 
 <div align="center">
